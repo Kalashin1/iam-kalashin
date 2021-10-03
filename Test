@@ -1,0 +1,37 @@
+	<!-- Color Settings Start
+	==================================================-->
+	<div class="color-panel">
+		<div class="on-panel color_white bg_primary">
+			<div class="text-center icon-spinner">
+			  <i class="fa fa-cog fa-spin fa-3x fa-fw"></i>
+			</div>
+		</div>
+		<div class="panel-box">
+			<span class="panel-title">Theme Colors</span>
+			<ul class="color-box">
+				<li class="default" data-name="default" data-path="css/color.css" data-image="images/logo/29.png" data-target="images/logo/29.png"></li>
+				<li class="color_2" data-name="color_2" data-path="css/color/color-1.css" data-image="images/logo/30.png" data-target="images/logo/30.png"></li>
+				<li class="color_3" data-name="color_3" data-path="css/color/color-2.css" data-image="images/logo/31.png" data-target="images/logo/31.png"></li>
+				<li class="color_4" data-name="color_4" data-path="css/color/color-3.css" data-image="images/logo/32.png" data-target="images/logo/32.png"></li>
+				<li class="color_5" data-name="color_5" data-path="css/color/color-4.css" data-image="images/logo/33.png" data-target="images/logo/33.png"></li>
+				<li class="color_6" data-name="color_6" data-path="css/color/color-5.css" data-image="images/logo/34.png" data-target="images/logo/34.png"></li>
+				<li class="color_7" data-name="color_7" data-path="css/color/color-6.css" data-image="images/logo/35.png" data-target="images/logo/35.png"></li>
+				<li class="color_8" data-name="color_8" data-path="css/color/color-7.css" data-image="images/logo/36.png" data-target="images/logo/36.png"></li>
+				<li class="color_9" data-name="color_9" data-path="css/color/color-8.css" data-image="images/logo/37.png" data-target="images/logo/37.png"></li>
+				<li class="color_10" data-name="color_10" data-path="css/color/color-9.css" data-image="images/logo/38.png" data-target="images/logo/38.png"></li>
+				<li class="color_11" data-name="color_11" data-path="css/color/color-10.css" data-image="images/logo/39.png" data-target="images/logo/39.png"></li>
+				<li class="color_12" data-name="color_12" data-path="css/color/color-11.css" data-image="images/logo/40.png" data-target="images/logo/40.png"></li>
+				<li class="color_13" data-name="color_13" data-path="css/color/color-12.css" data-image="images/logo/41.png" data-target="images/logo/41.png"></li>
+				<li class="color_14" data-name="color_14" data-path="css/color/color-13.css" data-image="images/logo/42.png" data-target="images/logo/42.png"></li>
+			</ul>
+		</div>
+		<div class="template_style">
+			<span class="layout_title">Template Style</span>
+			<ul>
+				<li><a class="btn_link" href="index-9.html" target="blank">bg Version 1</a></li>
+				<li><a class="btn_link" href="index-10.html" target="blank">bg Version 2</a></li>
+			</ul>
+		</div>
+	</div>
+	<!--  Color Settings End
+	==============================================-->
