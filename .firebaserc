@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "iamkala-c8f64"
+  },
+  "targets": {
+    "iamkala-c8f64": {
+      "hosting": {
+        "iam-kalashin": [
+          "iamkinanee"
+        ]
+      }
+    }
+  }
+}
